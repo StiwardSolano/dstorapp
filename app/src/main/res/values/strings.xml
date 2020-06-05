@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dstorapp</string>
+    <string name="title_home">Storage</string>
+    <string name="title_dashboard">Maps</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="google_maps_key">AIzaSyCefrxxRz2mnmqGSdHypUOwrjzqTyx6IMs</string>
+</resources>
